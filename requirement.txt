@@ -1,0 +1,8 @@
+aiogram
+wikipedia
+deep_translator
+GoogleTranslator
+yt_dlp
+os
+qrcode
+google.generativeai
