@@ -4,3 +4,4 @@ deep-translator==1.11.4
 yt-dlp
 qrcode
 google-generativeai
+pillow
