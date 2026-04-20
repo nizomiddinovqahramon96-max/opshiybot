@@ -1,8 +1,7 @@
 aiogram
 wikipedia
-deep_translator
-GoogleTranslator
-yt_dlp
-os
+deep-translator==1.11.4
+googletrans==4.0.0rc1
+yt-dlp
 qrcode
-google.generativeai
+google-genai==1.72.0
