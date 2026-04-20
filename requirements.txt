@@ -1,7 +1,6 @@
 aiogram
 wikipedia
 deep-translator==1.11.4
-googletrans==4.0.0rc1
 yt-dlp
 qrcode
 google-genai==1.72.0
